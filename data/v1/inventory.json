@@ -2,323 +2,323 @@
   "inventory": [
     {
       "id": "p1",
-      "name": "Leche Entera 1L",
-      "category": "Dairy",
-      "priceCents": 120,
+      "name": "Zapatillas Running Pro",
+      "category": "Footwear",
+      "priceCents": 8999,
       "stock": 0,
-      "imageUrl": "https://images.unsplash.com/photo-1580910051074-3eb694886505"
+      "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
     },
     {
       "id": "p2",
-      "name": "Huevos Camperos (12u)",
-      "category": "Dairy",
-      "priceCents": 310,
+      "name": "Zapatillas Trail",
+      "category": "Footwear",
+      "priceCents": 7499,
       "stock": 8,
-      "imageUrl": "https://images.unsplash.com/photo-1587486913049-53fc88980cfc"
+      "imageUrl": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa"
     },
     {
       "id": "p3",
-      "name": "Pan Integral",
-      "category": "Bakery",
-      "priceCents": 180,
+      "name": "Zapatillas Baloncesto",
+      "category": "Footwear",
+      "priceCents": 9999,
       "stock": 0,
-      "imageUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff"
+      "imageUrl": "https://images.unsplash.com/photo-1579338908476-3a3a1d71a706"
     },
     {
       "id": "p4",
-      "name": "Manzanas Golden (1kg)",
-      "category": "Fruits",
-      "priceCents": 250,
+      "name": "Camiseta Técnica Transpirable",
+      "category": "Clothing",
+      "priceCents": 2499,
       "stock": 15,
-      "imageUrl": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+      "imageUrl": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab"
     },
     {
       "id": "p5",
-      "name": "Pechuga de Pollo (500g)",
-      "category": "Meat",
-      "priceCents": 525,
+      "name": "Mallas Compresión",
+      "category": "Clothing",
+      "priceCents": 3499,
       "stock": 5,
-      "imageUrl": "https://images.unsplash.com/photo-1604503468506-a8da13d82791"
+      "imageUrl": "https://images.unsplash.com/photo-1506629082955-511b1aa562c8"
     },
     {
       "id": "p6",
-      "name": "Pasta Espagueti",
-      "category": "Pantry",
-      "priceCents": 95,
+      "name": "Sudadera Hoodie Sport",
+      "category": "Clothing",
+      "priceCents": 4999,
       "stock": 0,
-      "imageUrl": "https://images.unsplash.com/photo-1589307004391-0f9c3a1e1b89"
+      "imageUrl": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633"
     },
     {
       "id": "p7",
-      "name": "Tomate Frito",
-      "category": "Pantry",
-      "priceCents": 140,
+      "name": "Shorts Deportivos",
+      "category": "Clothing",
+      "priceCents": 1999,
       "stock": 30,
-      "imageUrl": "https://images.unsplash.com/photo-1598514982901-7f9b2f8c5c9c"
+      "imageUrl": "https://images.unsplash.com/photo-1591195853828-11db59a44f43"
     },
     {
       "id": "p8",
-      "name": "Chocolate Negro 85%",
-      "category": "Snacks",
-      "priceCents": 210,
+      "name": "Calcetines Running Pack x3",
+      "category": "Clothing",
+      "priceCents": 999,
       "stock": 3,
-      "imageUrl": "https://images.unsplash.com/photo-1582176604856-e824b4736522"
+      "imageUrl": "https://images.unsplash.com/photo-1571945192237-4734538a4b8c"
     },
     {
       "id": "p9",
-      "name": "Arroz Basmati 1kg",
-      "category": "Pantry",
-      "priceCents": 220,
+      "name": "Mancuernas 10kg Par",
+      "category": "Weights",
+      "priceCents": 4999,
       "stock": 40,
-      "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c"
+      "imageUrl": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5"
     },
     {
       "id": "p10",
-      "name": "Atún en Lata",
-      "category": "Pantry",
-      "priceCents": 130,
+      "name": "Kettlebell 16kg",
+      "category": "Weights",
+      "priceCents": 5999,
       "stock": 60,
-      "imageUrl": "https://images.unsplash.com/photo-1590080877777-95b9f3f1f6b4"
+      "imageUrl": "https://images.unsplash.com/photo-1580261450046-d0a30080dc9b"
     },
     {
       "id": "p11",
-      "name": "Yogur Griego Natural",
-      "category": "Dairy",
-      "priceCents": 190,
+      "name": "Barra Olímpica 20kg",
+      "category": "Weights",
+      "priceCents": 14999,
       "stock": 22,
-      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777"
+      "imageUrl": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48"
     },
     {
       "id": "p12",
-      "name": "Queso Curado",
-      "category": "Dairy",
-      "priceCents": 450,
+      "name": "Discos de Peso 5kg x2",
+      "category": "Weights",
+      "priceCents": 3499,
       "stock": 12,
-      "imageUrl": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d"
+      "imageUrl": "https://images.unsplash.com/photo-1574680096145-d05b474e2155"
     },
     {
       "id": "p13",
-      "name": "Plátanos (1kg)",
-      "category": "Fruits",
-      "priceCents": 180,
+      "name": "Esterilla de Yoga",
+      "category": "Accessories",
+      "priceCents": 2999,
       "stock": 25,
-      "imageUrl": "https://images.unsplash.com/photo-1574226516831-e1dff420e8f8"
+      "imageUrl": "https://images.unsplash.com/photo-1601925228881-ef4a21820f40"
     },
     {
       "id": "p14",
-      "name": "Naranjas (1kg)",
-      "category": "Fruits",
-      "priceCents": 210,
+      "name": "Comba de Saltar Pro",
+      "category": "Accessories",
+      "priceCents": 1499,
       "stock": 18,
-      "imageUrl": "https://images.unsplash.com/photo-1547514701-42782101795e"
+      "imageUrl": "https://images.unsplash.com/photo-1598289431512-b97b0917affc"
     },
     {
       "id": "p15",
-      "name": "Coca Cola 2L",
-      "category": "Drinks",
-      "priceCents": 275,
+      "name": "Banda Elástica Set",
+      "category": "Accessories",
+      "priceCents": 1999,
       "stock": 14,
-      "imageUrl": "https://images.unsplash.com/photo-1581636625402-29b2a704ef13"
+      "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438"
     },
     {
       "id": "p16",
-      "name": "Agua Mineral 1.5L",
-      "category": "Drinks",
-      "priceCents": 70,
+      "name": "Botella de Agua 750ml",
+      "category": "Accessories",
+      "priceCents": 1299,
       "stock": 100,
-      "imageUrl": "https://images.unsplash.com/photo-1564419320408-38e24e038c6c"
+      "imageUrl": "https://images.unsplash.com/photo-1602143407151-7111542de6e8"
     },
     {
       "id": "p17",
-      "name": "Patatas Fritas Bolsa",
-      "category": "Snacks",
-      "priceCents": 165,
+      "name": "Rodilleras Compresión",
+      "category": "Protection",
+      "priceCents": 2499,
       "stock": 35,
-      "imageUrl": "https://images.unsplash.com/photo-1566478989037-eec170784d0b"
+      "imageUrl": "https://images.unsplash.com/photo-1616803689943-5601631c7fec"
     },
     {
       "id": "p18",
-      "name": "Galletas María",
-      "category": "Snacks",
-      "priceCents": 150,
+      "name": "Guantes Entrenamiento",
+      "category": "Protection",
+      "priceCents": 1799,
       "stock": 28,
-      "imageUrl": "https://images.unsplash.com/photo-1589987607627-1fef2d6d1e03"
+      "imageUrl": "https://images.unsplash.com/photo-1542496658-e33a6d0d0fd0"
     },
     {
       "id": "p19",
-      "name": "Aceite de Oliva 1L",
-      "category": "Pantry",
-      "priceCents": 780,
+      "name": "Casco Ciclismo",
+      "category": "Protection",
+      "priceCents": 5999,
       "stock": 9,
-      "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5"
+      "imageUrl": "https://images.unsplash.com/photo-1558981806-ec527fa84c39"
     },
     {
       "id": "p20",
-      "name": "Cerveza Lager Pack",
-      "category": "Drinks",
-      "priceCents": 650,
+      "name": "Bicicleta Estática",
+      "category": "Machines",
+      "priceCents": 59900,
       "stock": 16,
-      "imageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591"
+      "imageUrl": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da"
     },
     {
       "id": "p21",
-      "name": "Batidos de proteina",
-      "category": "Drinks",
-      "priceCents": 100,
+      "name": "Cinta de Correr Plegable",
+      "category": "Machines",
+      "priceCents": 89900,
       "stock": 160,
-      "imageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591"
+      "imageUrl": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b"
     },
     {
       "id": "p22",
-      "name": "Mantequilla 250g",
-      "category": "Dairy",
-      "priceCents": 235,
+      "name": "Remo Indoor",
+      "category": "Machines",
+      "priceCents": 74900,
       "stock": 18,
-      "imageUrl": "https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d"
+      "imageUrl": "https://images.unsplash.com/photo-1519505907962-0a6cb0167c73"
     },
     {
       "id": "p23",
-      "name": "Lechuga Romana",
-      "category": "Fruits",
-      "priceCents": 110,
+      "name": "Balón de Fútbol",
+      "category": "Ball Sports",
+      "priceCents": 2999,
       "stock": 26,
-      "imageUrl": "https://images.unsplash.com/photo-1556801712-76c8eb07bbc9"
+      "imageUrl": "https://images.unsplash.com/photo-1614632537423-1e6c2e7e0aab"
     },
     {
       "id": "p24",
-      "name": "Tomates Cherry",
-      "category": "Fruits",
-      "priceCents": 195,
+      "name": "Balón de Baloncesto",
+      "category": "Ball Sports",
+      "priceCents": 3499,
       "stock": 21,
-      "imageUrl": "https://images.unsplash.com/photo-1561136594-7f68413baa99"
+      "imageUrl": "https://images.unsplash.com/photo-1546519638405-a2b06c7e0e95"
     },
     {
       "id": "p25",
-      "name": "Carne Picada 500g",
-      "category": "Meat",
-      "priceCents": 560,
+      "name": "Raqueta de Pádel",
+      "category": "Racket Sports",
+      "priceCents": 8999,
       "stock": 7,
-      "imageUrl": "https://images.unsplash.com/photo-1607623814075-e51df1bdc82f"
+      "imageUrl": "https://images.unsplash.com/photo-1612534847738-b3af9bc31f0c"
     },
     {
       "id": "p26",
-      "name": "Jamón Serrano",
-      "category": "Meat",
-      "priceCents": 720,
+      "name": "Raqueta de Tenis",
+      "category": "Racket Sports",
+      "priceCents": 11999,
       "stock": 11,
-      "imageUrl": "https://images.unsplash.com/photo-1604908554007-8c1b7e3d9f0a"
+      "imageUrl": "https://images.unsplash.com/photo-1622279457486-62dcc4a431d6"
     },
     {
       "id": "p27",
-      "name": "Pan de Molde",
-      "category": "Bakery",
-      "priceCents": 160,
+      "name": "Pelotas de Tenis x3",
+      "category": "Racket Sports",
+      "priceCents": 699,
       "stock": 19,
-      "imageUrl": "https://images.unsplash.com/photo-1608198093002-ad4e005484ec"
+      "imageUrl": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8"
     },
     {
       "id": "p28",
-      "name": "Croissants Pack",
-      "category": "Bakery",
-      "priceCents": 290,
+      "name": "Mochila Deportiva 30L",
+      "category": "Bags",
+      "priceCents": 4999,
       "stock": 13,
-      "imageUrl": "https://images.unsplash.com/photo-1555507036-ab1f4038808a"
+      "imageUrl": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62"
     },
     {
       "id": "p29",
-      "name": "Salmón Fresco 300g",
-      "category": "Meat",
-      "priceCents": 890,
+      "name": "Bolsa Gimnasio",
+      "category": "Bags",
+      "priceCents": 3499,
       "stock": 6,
-      "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c"
+      "imageUrl": "https://images.unsplash.com/photo-1491553895911-0055eca6402d"
     },
     {
       "id": "p30",
-      "name": "Pizza Margarita",
-      "category": "Frozen",
-      "priceCents": 420,
+      "name": "Reloj GPS Running",
+      "category": "Electronics",
+      "priceCents": 24999,
       "stock": 24,
-      "imageUrl": "https://images.unsplash.com/photo-1548365328-9f547fb0953d"
+      "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30"
     },
     {
       "id": "p31",
-      "name": "Helado Vainilla 1L",
-      "category": "Frozen",
-      "priceCents": 350,
+      "name": "Auriculares Sport Bluetooth",
+      "category": "Electronics",
+      "priceCents": 7999,
       "stock": 17,
-      "imageUrl": "https://images.unsplash.com/photo-1563805042-7684c019e1cb"
+      "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e"
     },
     {
       "id": "p32",
-      "name": "Café Molido 250g",
-      "category": "Pantry",
-      "priceCents": 360,
+      "name": "Monitor de Frecuencia Cardíaca",
+      "category": "Electronics",
+      "priceCents": 4999,
       "stock": 29,
-      "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93"
+      "imageUrl": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6"
     },
     {
       "id": "p33",
-      "name": "Azúcar Blanca 1kg",
-      "category": "Pantry",
-      "priceCents": 145,
+      "name": "Foam Roller",
+      "category": "Recovery",
+      "priceCents": 1999,
       "stock": 48,
-      "imageUrl": "https://images.unsplash.com/photo-1587731556938-38755b4803a6"
+      "imageUrl": "https://images.unsplash.com/photo-1595909315419-e52e7f6cbc9c"
     },
     {
       "id": "p34",
-      "name": "Sal Fina",
-      "category": "Pantry",
-      "priceCents": 80,
+      "name": "Pistola de Masaje",
+      "category": "Recovery",
+      "priceCents": 8999,
       "stock": 70,
-      "imageUrl": "https://images.unsplash.com/photo-1514516873439-d3a1e4d7f0a2"
+      "imageUrl": "https://images.unsplash.com/photo-1620138461861-bffe94ed35be"
     },
     {
       "id": "p35",
-      "name": "Cerveza IPA",
-      "category": "Drinks",
-      "priceCents": 210,
+      "name": "Bolsa de Frío/Calor",
+      "category": "Recovery",
+      "priceCents": 899,
       "stock": 34,
-      "imageUrl": "https://images.unsplash.com/photo-1510626176961-4b37d3b1a6e4"
+      "imageUrl": "https://images.unsplash.com/photo-1556740749-887f6717d7e4"
     },
     {
       "id": "p36",
-      "name": "Zumo de Naranja 1L",
-      "category": "Drinks",
-      "priceCents": 240,
+      "name": "Botas de Esquí",
+      "category": "Winter Sports",
+      "priceCents": 29900,
       "stock": 27,
-      "imageUrl": "https://images.unsplash.com/photo-1542444459-db63c7d5a2d2"
+      "imageUrl": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256"
     },
     {
       "id": "p37",
-      "name": "Frutos Secos Mix",
-      "category": "Snacks",
-      "priceCents": 390,
+      "name": "Tabla de Snowboard",
+      "category": "Winter Sports",
+      "priceCents": 44900,
       "stock": 23,
-      "imageUrl": "https://images.unsplash.com/photo-1508747703725-719777637510"
+      "imageUrl": "https://images.unsplash.com/photo-1478132783738-16ec67975bdb"
     },
     {
       "id": "p38",
-      "name": "Barritas Energéticas",
-      "category": "Snacks",
-      "priceCents": 260,
+      "name": "Gafas de Esquí",
+      "category": "Winter Sports",
+      "priceCents": 5999,
       "stock": 45,
-      "imageUrl": "https://images.unsplash.com/photo-1604908176997-4318c6bb5c8d"
+      "imageUrl": "https://images.unsplash.com/photo-1547826039-bdbebb989c6a"
     },
     {
       "id": "p39",
-      "name": "Detergente Ropa",
-      "category": "Cleaning",
-      "priceCents": 520,
+      "name": "Chaleco Reflectante Running",
+      "category": "Clothing",
+      "priceCents": 1999,
       "stock": 20,
-      "imageUrl": "https://images.unsplash.com/photo-1581578731548-c64695cc6952"
+      "imageUrl": "https://images.unsplash.com/photo-1519311965067-36d3e5f33d39"
     },
     {
       "id": "p40",
-      "name": "Papel Higiénico Pack",
-      "category": "Cleaning",
-      "priceCents": 450,
+      "name": "Cinta Kinesiológica",
+      "category": "Recovery",
+      "priceCents": 1299,
       "stock": 32,
-      "imageUrl": "https://images.unsplash.com/photo-1583947582886-f40ec95dd752"
+      "imageUrl": "https://images.unsplash.com/photo-1559757175-5700dde675bc"
     }
   ]
 }
